@@ -1,11 +1,10 @@
-"use strict";
-
-Object.defineProperty(exports, "__esModule", {
-  value: true
+Object.defineProperty(exports, '__esModule', {
+  value: true,
 });
 exports.getHealthStatus = getHealthStatus;
 exports.sortHeroesByHealth = sortHeroesByHealth;
-var _basic = _interopRequireDefault(require("./basic"));
+const _basic = _interopRequireDefault(require('./basic'));
+
 function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
 // TODO: write your code here
 

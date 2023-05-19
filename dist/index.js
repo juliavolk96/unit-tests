@@ -1,4 +1,2 @@
-"use strict";
-
-require("./css/style.css");
-require("./js/app");
+require('./css/style.css');
+require('./js/app');
