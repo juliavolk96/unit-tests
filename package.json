@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "babel src -d dist",
+    "build": "npx babel src -d dist",
     "test": "jest --coverage",
     "lint": "eslint ."
   },
